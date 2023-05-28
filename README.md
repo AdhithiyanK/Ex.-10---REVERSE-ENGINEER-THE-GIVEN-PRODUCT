@@ -33,10 +33,9 @@
 ## Input:
 
 ### Output:
-
-
-### Name:
-### Register Number:
+![EXP1O](https://github.com/AdhithiyanK/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121029258/4aca8552-db98-4d8f-9649-cd75b8c153be)
+### Name:ADHITHIYAN.K
+### Register Number:212222230006
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
